@@ -1,0 +1,1 @@
+"./tm4c123gh6pm_startup_ccs.obj" "./Lab1 Code Files/Timer.obj" "./Lab1 Code Files/helloworld.obj" "./Lab1 Code Files/lcd.obj" "./Lab1 Code Files/resetSimulation.obj" "../tm4c123gh6pm.cmd" -llibc.a -l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib" 
